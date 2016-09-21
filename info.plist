@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>contactEmailRot13</key>
+  <string></string>
+  <key>contactName</key>
+  <string>https://github.com/hjson/textmate-hjson</string>
+  <key>description</key>
+  <string>Hjson Syntax.</string>
+  <key>name</key>
+  <string>Hjson</string>
+  <key>uuid</key>
+  <string>02370845-2C55-419B-8C0D-95151533C493</string>
+</dict>
+</plist>

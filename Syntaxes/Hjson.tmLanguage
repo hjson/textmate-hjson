@@ -413,5 +413,7 @@
   </dict>
   <key>scopeName</key>
   <string>source.hjson</string>
+  <key>uuid</key>
+  <string>a83636f5-d746-4c3e-b4e3-0589264a8392</string>
 </dict>
 </plist>
