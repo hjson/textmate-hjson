@@ -28,6 +28,6 @@ A lot of editors support TextMate compatible syntax definitions. You can use thi
 
 ## Others
 
-Check [Editor Support](http://hjson.org/download.html#ed) for a native package first (like Sublime/Atom/Visual Studio).
+Check [Editor Support](https://hjson.github.io/users.html#ed) for a native package first (like Sublime/Atom/Visual Studio).
 
 If your editor is not listed you may be able to install this package if it supports TextMate syntax bundles.
