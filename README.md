@@ -4,14 +4,6 @@ A lot of editors support TextMate compatible syntax definitions. You can use thi
 
 ## IntelliJ Installation
 
-- Install TextMate bundles support
-  (if it is not installed already)
-  - Open Preferences/Plugins
-  - Click *Install JetBrains plugin...*
-  - Type "textmate" in the search box
-  - Install "TextMate bundles support"
-  - Restart IntelliJ
-
 - Install Hjson syntax
   - clone or download this repo
     `git clone https://github.com/hjson/textmate-hjson.git`
